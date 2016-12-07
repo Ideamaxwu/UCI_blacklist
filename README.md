@@ -2,4 +2,10 @@
 blacklist of BAD people about house-rent, car-transfer, etc.
 
 *For Example*
-* Hilary Trump - a total lier!
+* Hillary Trump - a total lier!
+
+# The full list:
+
+* 
+* 
+* 
